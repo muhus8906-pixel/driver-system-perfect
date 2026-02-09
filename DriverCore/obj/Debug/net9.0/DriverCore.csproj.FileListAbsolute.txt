@@ -1,0 +1,11 @@
+C:\Users\MMuN.Knight\Desktop\DriverSystem\DriverCore\bin\Debug\net9.0\DriverCore.deps.json
+C:\Users\MMuN.Knight\Desktop\DriverSystem\DriverCore\bin\Debug\net9.0\DriverCore.dll
+C:\Users\MMuN.Knight\Desktop\DriverSystem\DriverCore\bin\Debug\net9.0\DriverCore.pdb
+C:\Users\MMuN.Knight\Desktop\DriverSystem\DriverCore\obj\Debug\net9.0\DriverCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MMuN.Knight\Desktop\DriverSystem\DriverCore\obj\Debug\net9.0\DriverCore.AssemblyInfoInputs.cache
+C:\Users\MMuN.Knight\Desktop\DriverSystem\DriverCore\obj\Debug\net9.0\DriverCore.AssemblyInfo.cs
+C:\Users\MMuN.Knight\Desktop\DriverSystem\DriverCore\obj\Debug\net9.0\DriverCore.csproj.CoreCompileInputs.cache
+C:\Users\MMuN.Knight\Desktop\DriverSystem\DriverCore\obj\Debug\net9.0\DriverCore.dll
+C:\Users\MMuN.Knight\Desktop\DriverSystem\DriverCore\obj\Debug\net9.0\refint\DriverCore.dll
+C:\Users\MMuN.Knight\Desktop\DriverSystem\DriverCore\obj\Debug\net9.0\DriverCore.pdb
+C:\Users\MMuN.Knight\Desktop\DriverSystem\DriverCore\obj\Debug\net9.0\ref\DriverCore.dll
